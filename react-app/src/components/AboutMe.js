@@ -1,5 +1,4 @@
 import React from 'react';
-import Headshot from '../images/Headshot.jpg';
 import HeadshotCircle from '../images/headshot_circle.png';
 
 const AboutMe = () => {
